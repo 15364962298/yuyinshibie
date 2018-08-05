@@ -1,0 +1,74 @@
+@import url(base.css);
+.home_page{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    /*background: red;*/
+
+}
+.picture{
+    width:3.12rem;
+    height: 3.12rem;
+    /*background: #000;*/
+    margin:1.8rem auto 0;
+}
+img{
+    display: block;
+    width:100%;
+}
+.text{
+    font-size:0.28rem;
+    font-family: San Francisco Display;
+    color:#585858;
+    text-align:center;
+    line-height: 0.28rem;
+    margin-top:0.5rem;
+}
+.btn_top{
+    display: block;
+    width:4.84rem;
+    height: 0.7rem;
+    background-image:-webkit-linear-gradient(left,#3e9eff,#41c3ff);
+    margin:4.31rem auto 0;
+    font-size:0.28rem;
+    color:#bbe1ff;
+    text-align: center;
+    line-height: 0.7rem;
+    border-radius:0.35rem;
+    border:none;
+}
+.btn_top{
+    display: block;
+    width:4.84rem;
+    height: 0.7rem;
+    background-image:-webkit-linear-gradient(left,#3e9eff,#41c3ff);
+    margin:4.31rem auto 0;
+    font-size:0.28rem;
+    color:#bbe1ff;
+    text-align: center;
+    line-height: 0.7rem;
+    border-radius:0.35rem;
+    border:none;
+}
+.btn_bottom{
+    display: block;
+    width:4.84rem;
+    height: 0.7rem;
+    background-image:-webkit-linear-gradient(left,#cde145,#e2db12);
+    margin:0.33rem auto 0;
+    font-size:0.28rem;
+    color:#ffffff;
+    text-align: center;
+    line-height: 0.7rem;
+    border-radius:0.35rem;
+    border:none;
+}
+
+
+
+
+
+
+

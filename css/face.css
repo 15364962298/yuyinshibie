@@ -1,0 +1,65 @@
+@import url(base.css);
+.face{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background: #eeeeee;
+}
+.face_img{
+    position: relative;
+    width:5.35rem;
+    height: 3.75rem;
+    margin:4.66rem auto;
+}
+img{
+    display: block;
+    width:100%;
+}
+.face_img p{
+    position:absolute;
+    bottom:1.46rem;
+    width:5.35rem;
+    font-size:0.24rem;
+    color:#a3a3a3;
+    line-height:0.3rem;
+    text-align:center;
+}
+.face_img .button{
+    position:absolute;
+    bottom:0.78rem;
+    width:100%;
+    height: 0.49rem;
+}
+.face_img .button .btn_left{
+    display: block;
+    width:1.3rem;
+    height: 100%;
+    background-image:-webkit-linear-gradient(left,#40d511,#ece42e);
+    margin-left:1.29rem;
+    border-radius:0.25rem;
+    font-size:0.24rem;
+    line-height: 0.49rem;
+    text-align:center;
+    float:left;
+}
+.face_img .button .btn_right{
+    display: block;
+    width:1.3rem;
+    height: 100%;
+    background-image:-webkit-linear-gradient(left,#d5d5d5,#bebcbc);
+    margin-right:1.29rem;
+    border-radius:0.25rem;
+    font-size:0.24rem;
+    line-height: 0.49rem;
+    text-align:center;
+    float:right ;
+}
+
+
+
+
+
+
+
