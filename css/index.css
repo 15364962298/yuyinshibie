@@ -52,6 +52,12 @@ img{
     border-radius:0.35rem;
     border:none;
 }
+.home_page a{
+    display: block;
+    width:4.84rem;
+    height: 0.7rem;
+    margin:0.33rem auto 0;
+}
 .btn_bottom{
     display: block;
     width:4.84rem;

@@ -1,0 +1,90 @@
+@import url(base.css);
+.chenggong{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-image:-webkit-linear-gradient(top,#25cd86,#1cec4a);
+}
+.text{
+    width:100%;
+    height: 1rem;
+    font-size:0.22rem;
+    color:#ffffff;
+    text-align:center;
+    line-height:0.46rem;
+    margin-top:1.95rem;
+    margin-bottom:0.36rem;
+}
+.text span{
+    font-size:0.3rem;
+    color:#ffffff;
+    line-height: 0.54rem;
+}
+.picture{
+    width:3.6rem;
+    height: 3.6rem;
+    margin:0 auto 1.45rem;
+}
+img{
+    display: block;
+    width:100%;
+}
+.box{
+    position: relative;
+    display: block;
+    width:100%;
+    height: 5rem;
+    overflow:hidden;
+}
+.box1{
+    position:absolute;
+    top:0.1rem;
+    left:-20rem;
+    z-index: 1;
+    width:50rem;
+    height: 30rem;
+    background: rgba(255,255,255,0.2);
+    border-radius:50%;
+}
+.box2{
+    position:absolute;
+    top:0.5rem;
+    right:-20rem;
+    z-index: 3;
+    width:50rem;
+    height: 30rem;
+    background: rgba(255,255,255,0.4);
+    border-radius:50%;
+}
+.box3{
+    position:absolute;
+    top:0.3rem;
+    left:-20rem;
+    z-index: 2;
+    width:50rem;
+    height: 30rem;
+    background: rgba(255,255,255,0.3);
+    border-radius:50%;
+}
+.box4{
+    position:absolute;
+    top:0.7rem;
+    left:-20rem;
+    z-index: 4;
+    width:50rem;
+    height: 40rem;
+    background: rgba(255,255,255,0.6);
+    border-radius:50%;
+}
+.box5{
+    position:absolute;
+    top:0.85rem;
+    left:-20rem;
+    z-index: 5;
+    width:50rem;
+    height: 50rem;
+    background: rgba(255,255,255,0.8);
+    border-radius:50%;
+}

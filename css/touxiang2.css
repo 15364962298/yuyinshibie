@@ -1,0 +1,53 @@
+@import url(base.css);
+img{
+    display: block;
+    width:100%;
+}
+.head{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background: #eeeeee;
+}
+.head_box{
+    display: block;
+    width:3.9rem;
+    height: 5.1rem;
+    background: #e7e5e5;
+    margin:2.55rem auto 2.58rem;
+}
+.head ul{
+    width:1.25rem;
+    height: 0.15rem;
+    margin:0 auto 0.45rem;
+}
+.point{
+    width:0.15rem;
+    height: 0.15rem;
+    background: #e1dcdc;
+    float: left;
+    margin:0 0.05rem;
+    border-radius:50%;
+}
+.point:nth-child(2){
+    background: #7adcb6;
+}
+.point:nth-child(3){
+    background: #26c487;
+}
+.point:nth-child(4){
+    background: #7adcb6;
+}
+h6{
+    height: 0.5rem;
+    font-size:0.28rem;
+    color:#a0a0a0;
+    line-height: 0.5rem;
+    text-align:center;
+    font-weight:400;
+    padding-left:0.3rem;
+}
+
+
