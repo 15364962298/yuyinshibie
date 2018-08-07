@@ -17,6 +17,32 @@ img{
     margin:2rem auto;
     margin-bottom:0.2rem;
 }
+.picture1{
+    width:5rem;
+    height: 1.5rem;
+    animation:rotate 2s linear infinite forwards;
+}
+@keyframes rotate{
+    from{
+        transform:rotateX(0);
+    }
+    to{
+        transform:rotateX(-3600deg);
+    }
+}
+.picture2{
+    width:5rem;
+    height: 1.5rem;
+    animation:rotate1 2s linear infinite forwards;
+}
+@keyframes rotate1{
+    from{
+        transform:rotateX(0);
+    }
+    to{
+        transform:rotateX(-3600deg);
+    }
+}
 .text1{
     width:100%;
     height: 0.22rem;
