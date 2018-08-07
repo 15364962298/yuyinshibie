@@ -1,0 +1,129 @@
+@import url(base.css);
+.yanzheng{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background: #eeeeee;
+}
+.quan{
+    width:2.75rem;
+    height: 2.75rem;
+    margin:1.7rem auto 0.2rem;
+    background: #e2e9e6;
+    border-radius:50%;
+    padding:0.25rem 0.25rem;
+}
+.quan1{
+    width:2.25rem;
+    height:2.25rem;
+    padding:0.25rem 0.25rem;
+    background: #d3e4dc;
+    border-radius:50%;
+}
+.quan2{
+    width:2.25rem;
+    height:2.25rem;
+    background: #c5dfd3;
+    border-radius:50%;
+    overflow: hidden;
+}
+.quan3{
+    width:0.65rem;
+    height: 0.65rem;
+    border-radius:50%;
+    background-image:-webkit-linear-gradient(top,#33d14d,#33c38d);
+    margin:0.4rem auto 0.12rem;
+}
+.quan4{
+    width:1.25rem;
+    height: 0.6rem;
+    border-radius:0.3rem;
+    background-image:-webkit-linear-gradient(top,#33d14d,#33c38d);
+    margin:0 auto;
+}
+.please{
+    font-size:0.28rem;
+    color:#39bd72;
+    text-align:center;
+    line-height: 0.28rem;
+    margin-bottom:0.25rem;
+}
+.please_face{
+    font-size:0.2rem;
+    color:#7d7d7d;
+    text-align:center;
+    line-height: 0.2rem;
+    margin-bottom:1.9rem;
+}
+.shuru{
+    position: relative;
+    width:5.3rem;
+    height: 0.45rem;
+    margin:0 auto;
+    border-bottom:2px solid #ff0000;
+    margin-bottom:2.5rem;
+}
+.point{
+    position:absolute;
+    top:0.1rem;
+    width:0.15rem;
+    height: 0.07rem;
+    background: #ffcb2d;
+    border-radius:0.035rem;
+}
+.shuru .user{
+    position: absolute;
+    left:0.4rem;
+    outline: none;
+    font-size:0.2rem;
+    background: #eeeeee;
+    border:0;
+    maxlength:4rem;
+}
+.shuru .cancel{
+    display: block;
+    position: absolute;
+    right:0.2rem;
+    color:red;
+    font-size:0.1rem;
+}
+.button{
+    display: block;
+    width:3.5rem;
+    height: 0.7rem;
+    background: #d6d6d6;
+    margin:0 auto;
+    border-radius:0.35rem;
+    color:#a2a2a2;
+    font-size:0.24rem;
+    text-align:center;
+    line-height: 0.7rem;
+}
+.cuowuts{
+    width:100%;
+    height: 0.24rem;
+    position: absolute;
+    top:7.4rem;
+}
+.cuowuts .tanhao{
+    width:0.24rem;
+    height: 0.24rem;
+    background: red;
+    border-radius:50%;
+    margin-left:1.5rem;
+    font-size:0.2rem;
+    color:#fff;
+    text-align:center;
+    line-height: 0.24rem;
+    float: left;
+}
+.cuowuts span{
+    display: block;
+    font-size:0.2rem;
+    color:red;
+    line-height: 0.24rem;
+    float: left;
+    margin-left:0.15rem;
+}

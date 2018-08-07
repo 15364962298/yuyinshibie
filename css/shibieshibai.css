@@ -5,7 +5,7 @@
     bottom:0;
     left:0;
     right:0;
-    background-image:-webkit-linear-gradient(top,#25cd86,#1cec4a);
+    background:red;
 }
 .text{
     width:100%;
@@ -100,5 +100,5 @@ img{
     height: 0.9rem;
     border-radius:0.45rem;
     z-index: 10;
-    background-image:-webkit-linear-gradient(left,#cde043,#e2db13);
+    background-image:-webkit-linear-gradient(left,#ff6700,#ff080d);
 }
